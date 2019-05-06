@@ -1,0 +1,11 @@
+  bien rc: bien xac dinh ket noi
+  #0: ket noi thanh cong
+        #1: ket noi bi tu choi,giao thuc khong dung phien ban
+        #2: ket noi bi tu choi, giao thuc khac hang khong hop le
+        #3: tu choi ket noi, may chu khong kha dung
+        #4: ket noi bi tu choi, ten nguoi dung hoac mat khau xau
+        #5: ket noi bi tu choi, khong duoc phep
+        #6-255: hien khong duoc su dung
+
+        userdata:du lieu duoc khai bao trong ham tao may khach
+        
